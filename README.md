@@ -3,7 +3,7 @@ Overview
 The Hospital Management System (HMS) is a web-based application developed using PHP, designed to manage various aspects of hospital operations. This system aims to streamline the management of hospital activities, improve patient care, and provide an efficient way to handle administrative tasks.
 
 Features
-Patient Management:
+Patient Management
 
 Patient registration and profile management
 Appointment scheduling and tracking
